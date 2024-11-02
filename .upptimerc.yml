@@ -5,11 +5,11 @@ assignees:
   - nicokempe
 
 sites:
-  - name: Dashio: Homepage
+  - name: Dashio - Homepage
     url: https://www.dashio.net
-  - name: Dashio: Status
+  - name: Dashio - Status
     url: https://status.dashio.net
-  - name: Dashio: Docs
+  - name: Dashio - Docs
     url: https://docs.dashio.net
 
 status-website:
