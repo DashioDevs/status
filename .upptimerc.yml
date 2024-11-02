@@ -5,10 +5,12 @@ assignees:
   - nicokempe
 
 sites:
-  - name: Hetzner Cloud Console
-    url: https://console.hetzner.cloud
-  - name: Dashio Website
+  - name: Dashio: Homepage
     url: https://www.dashio.net
+  - name: Dashio: Status
+    url: https://status.dashio.net
+  - name: Dashio: Docs
+    url: https://docs.dashio.net
 
 status-website:
   # Add our custom domain name, or remove the `cname` line if we don't have a domain
