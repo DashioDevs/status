@@ -1,7 +1,7 @@
 url: https://status.dashio.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-02T23:06:56.701Z
+status: up
+code: 200
+responseTime: 226
+lastUpdated: 2024-11-03T01:53:00.486Z
 startTime: 2024-11-02T18:23:53.301Z
 generator: Upptime <https://github.com/upptime/upptime>
