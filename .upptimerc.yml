@@ -20,8 +20,8 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/126912464?s=400&u=7b49febd424d1fe6eab8bc6f4b72b6ce85ecdebe&v=4
   favicon: https://dashio.net/favicon.ico
   name: Status
-  introTitle: "With us, you secure maximum efficiency, security, and continuous growth."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/DashioDevs/status).
+  introTitle: "Dashio Status Page"
+  introMessage: Uptime monitor and status page built with GitHub. Leverages Issues for incident reporting, Actions for monitoring, and Pages for a transparent status display.
   theme: dark
   navbar:
     - title: Status
