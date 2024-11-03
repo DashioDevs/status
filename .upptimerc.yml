@@ -30,5 +30,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 commitMessages:
-  commitAuthorName: "Dashio Status Bot"
-  commitAuthorEmail: "status@dashio.net"
+  commitAuthorName: "DashioBot"
+  commitAuthorEmail: "bots@dashio.net"
