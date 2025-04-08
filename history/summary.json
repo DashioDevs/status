@@ -62,18 +62,19 @@
     "url": "https://api.dashio.net/rest/core/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.dashio.net.ico",
     "slug": "dashio-api",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 516,
     "timeDay": 491,
     "timeWeek": 477,
     "timeMonth": 540,
     "timeYear": 516,
     "dailyMinutesDown": {
+      "2025-04-08": 0,
       "2025-02-22": 725
     }
   }
