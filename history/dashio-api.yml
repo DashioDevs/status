@@ -1,7 +1,7 @@
 url: https://api.dashio.net/rest/core/health
 status: down
 code: 502
-responseTime: 490
-lastUpdated: 2025-04-26T23:05:24.897Z
+responseTime: 400
+lastUpdated: 2025-04-27T23:05:22.352Z
 startTime: 2025-01-10T15:53:15.543Z
 generator: Upptime <https://github.com/upptime/upptime>
